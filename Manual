@@ -1,0 +1,9 @@
+Para acesso do login.
+
+Administrador
+  login:admin
+  senha:admin
+  
+Funcionario:
+  login:func
+  senha:func
